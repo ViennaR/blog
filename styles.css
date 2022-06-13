@@ -1,1 +1,5 @@
 /* css styles */
+
+#quarto-header {
+  transition: transform 200ms;
+}
