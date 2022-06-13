@@ -2,18 +2,15 @@ project:
   type: website
 
 website:
-  title: "blog"
+  title: "ViennaR"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/ViennaR
+      - icon: calendar
+        href: https://www.meetup.com/ViennaR/
 format:
   html:
-    theme: cosmo
+    theme: default # potential picks: default, litera, simplex, spacelab
     css: styles.css
-
-
-
