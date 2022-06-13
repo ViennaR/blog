@@ -3,12 +3,18 @@ project:
 
 website:
   title: "ViennaR"
+  site-url: https://www.viennar.org
+  description: "ViennaR Meetup group"
+  repo-url: https://github.com/ViennaR/blog
+  repo-actions: [edit, issue]
   navbar:
     right:
       - about.qmd
+      - icon: rss
+        href: /index.xml
       - icon: github
         href: https://github.com/ViennaR
-      - icon: calendar
+      - icon: calendar-event
         href: https://www.meetup.com/ViennaR/
 format:
   html:
