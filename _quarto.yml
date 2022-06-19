@@ -4,18 +4,32 @@ project:
 website:
   title: "ViennaR"
   site-url: https://www.viennar.org
-  description: "ViennaR Meetup group"
+  description: "Vienna R User Group"
   repo-url: https://github.com/ViennaR/blog
   repo-actions: [edit, issue]
+  opengraph: true # or open-graph?
+  twitter-card: true
+  page-navigation: true
+  search: false
   navbar:
+    pinned: true
     right:
-      - about.qmd
-      - icon: rss
-        href: /index.xml
-      - icon: github
-        href: https://github.com/ViennaR
-      - icon: calendar-event
+      - text: Meetup
         href: https://www.meetup.com/ViennaR/
+      - text: Twitter
+        icon: twitter
+        href: https://twitter.com/ViennaR
+      - icon: "github"
+        text: GitHub
+        href: https://github.com/ViennaR
+      - icon: linkedin
+        text: LinkedIn
+        href: https://www.linkedin.com/in/viennar/
+      - icon: rss
+        text: R-Bloggers
+        href: https://www.r-bloggers.com/
+  page-footer:
+    left: "© 2022 Vienna R User Group"
 format:
   html:
     theme: default # potential picks: default, litera, simplex, spacelab
