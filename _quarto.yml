@@ -32,5 +32,5 @@ website:
     left: "© 2022 Vienna R User Group"
 format:
   html:
-    theme: default # potential picks: default, litera, simplex, spacelab
+    theme: spacelab # potential picks: default, litera, simplex, spacelab
     css: styles.css
