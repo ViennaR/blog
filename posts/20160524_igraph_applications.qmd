@@ -114,6 +114,7 @@ title("(c) Global Betweenness", cex.main = cm)
 
 ## Node-based vs. link-based Betweenness for Links
 ```{r}
+Sys.setenv("DISPLAY"=":0.0")
 g <- make_graph(c(1,2, 2,3, 3,4, 4,5,#horizontal connections
                   6,7, 7,8, 8,9, 9,10,
                   2,7,#vertical connections
@@ -183,6 +184,7 @@ github project: https://github.com/maxar/igraph_testing/blob/master/test_vertex_
 
 
 ```{r}
+Sys.setenv("DISPLAY"=":0.0")
 require(igraph)
 packageVersion("igraph") # my installed version is 1.0.1
 
@@ -367,6 +369,7 @@ The mini example demonstrates, that setting the parameter 'normalized=T' does no
 Thanks for help.
 
 ```{r}
+Sys.setenv("DISPLAY"=":0.0")
 set.seed(1210)
 require('igraph')
 g <- random.graph.game(20,3/10)
