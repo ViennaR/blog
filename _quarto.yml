@@ -12,6 +12,7 @@ website:
   page-navigation: true
   search: false
   navbar:
+    logo: /images/logo.svg
     pinned: true
     right:
       - text: Meetup

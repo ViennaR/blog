@@ -3,3 +3,13 @@
 #quarto-header {
   transition: transform 200ms;
 }
+
+.navbar-title {
+  visibility: hidden;
+  width: 0;
+  height: 0;
+}
+
+.navbar-brand img {
+  max-height: 32px;
+}
