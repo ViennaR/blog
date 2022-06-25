@@ -16,7 +16,7 @@ Rainer presented interesting [igraph](https://cran.r-project.org/web/packages/ig
 
 ## Mario Annau: R/Finance 2016 Impressions
 
-Mario summed up his impressions on the last [R/Finance conference](http://www.rinfinance.com/agenda) including a small *mashup* [presentation](/slides/rfinance2016_mashup.pdf).
+Mario summed up his impressions on the last [R/Finance conference](http://www.rinfinance.com/agenda) including a small *mashup* [presentation](/www/slides/rfinance2016_mashup.pdf).
 
 ## Organizational
 

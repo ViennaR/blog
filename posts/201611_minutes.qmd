@@ -17,11 +17,11 @@ Finally, Mario showed some time series forecasting examples already discussing d
 ## Links
 
 - **mxnet**
-  - [Slides](/slides/kalcher_deeplearning.pdf)
+  - [Slides](/www/slides/kalcher_deeplearning.pdf)
   - **mxnet** R-package: <https://github.com/dmlc/mxnet/tree/master/R-package>
   - dmlc mxnet for Deep Learning: <http://mxnet.io>
 - **forecast**
-  - [Forecasting Crashcourse](/slides/forecast_intro2.html) ([src](/slides/forecast_intro2.Rmd))
+  - [Forecasting Crashcourse](/www/slides/forecast_intro2.html) ([src](/www/slides/forecast_intro2.Rmd))
   - **forecast** package: <https://CRAN.R-project.org/package=forecast>
   - Forecasting: principles and practice book: <https://www.otexts.org/fpp>
 

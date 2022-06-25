@@ -15,7 +15,7 @@ The October Meetup was hosted by Roland Boubela who gave an excellent talk about
 
 ## Links
 
-- [Slides](/slides/boubela_sparklyr.pdf)
+- [Slides](/www/slides/boubela_sparklyr.pdf)
 - **sparklyr**: <http://spark.rstudio.com>
 - **SparkR**: <http://spark.apache.org/docs/latest/sparkr.html>
 - RStudio Preview: <https://www.rstudio.com/products/rstudio/download/preview>

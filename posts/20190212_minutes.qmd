@@ -11,7 +11,7 @@ categories: ["serverless", "tools"]
 
 Peter presented Alteryx, a platform built for Business Analysts to master tasks like data management, data cleaning and modelling. The tool is windows only and will be ported to Linux soon. It can connect to multiple data sources and helps Business Analysts to deploy models in production. Finally, Peter also showed a Demo including data ingestion, an example of the Facebook Face API and some community features.
 
-You can find the **slides** of his presentation [here](/slides/Alteryx Corporate Intro Presentation.pptx).
+You can find the **slides** of his presentation [here](/www/slides/Alteryx Corporate Intro Presentation.pptx).
 
 ### Questions
 
@@ -38,7 +38,7 @@ C++?
 
 Florian presented the package gRPC to interface the popular RPC framework, see also https://github.com/nfultz/grpc. The reason to use gRPC instead of REST APIs is performance since messages are sent via [protobuf](http://dirk.eddelbuettel.com/code/rprotobuf.html) instead of JSON.
 
-You can find the **slides** [here](/slides/grpc.pdf).
+You can find the **slides** [here](/www/slides/grpc.pdf).
 
 ## Serverless Computing with AWS for data science
 [**Christoph Bodner**](https://www.linkedin.com/in/christoph-bodner) and [**Thomas Laber**](https://www.linkedin.com/in/thomas-laber)
@@ -49,5 +49,5 @@ However, they also mentioned limitations and challenges deploying R as lambda fu
 
 Below the materials of their presentation:
 
-- **Slides**: [Serverless Computing](/slides/Serverless Computing.pdf)
+- **Slides**: [Serverless Computing](/www/slides/Serverless Computing.pdf)
 - **Article**: https://medium.com/bakdata/running-r-on-aws-lambda-9d40643551a6
