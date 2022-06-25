@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  favicon: /images/logo-favicon.png
+  favicon: images/logo-favicon.png
   title: "ViennaR"
   site-url: https://www.viennar.org
   description: "Vienna R User Group"
