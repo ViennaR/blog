@@ -6,9 +6,7 @@ website:
   title: "ViennaR"
   site-url: https://www.viennar.org
   description: "Vienna R User Group"
-  google-analytics:
-    tracking-id: "G-VS17WCG04X"
-    storage: none # Prevents need for cookie consent
+  google-analytics: "G-VS17WCG04X"
   repo-url: https://github.com/ViennaR/blog
   repo-actions: [edit, issue]
   opengraph: true # or open-graph?
